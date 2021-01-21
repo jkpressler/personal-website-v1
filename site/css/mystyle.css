@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/withsakura-sm.png");
+      background: url("../img/graduation-pic.png");
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -103,8 +103,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/background.jpg);
-    background: rgba(68, 68, 68, 0.9), url(../img/background.jpg);
+    background: url(../img/box-arc.jpg);
+    background: rgba(68, 68, 68, 0.9), url(../img/box-arc.jpg);
     background-attachment: fixed;
     background-size: cover; } 
 
@@ -123,6 +123,12 @@ h3 {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
     background: rgba(73, 73, 73, 0.5); }
+#us-name{
+  margin-bottom: 0%;
+}
+#jp-name{
+  margin-top: 0%;
+}
 
 a {
   color: #fff;
@@ -222,6 +228,10 @@ main {
 .btn-light {
   background: #c4c4c4;
   color: #333; }
+
+body i{
+  color: indianred;
+}
 
 #main-footer {
   text-align: center;
