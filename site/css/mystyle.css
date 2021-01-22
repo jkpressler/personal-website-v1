@@ -76,7 +76,7 @@
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
-      color: chartreuse;
+      color: rgb(252, 212, 152);
         transform: scale(1.25)
 }
 
@@ -232,13 +232,6 @@ main {
 body i{
   color: #cd5c5c;
 }
-
-#main-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #2b2b2b;
-  color: #fff;
-  height: 60px; }
 
 @media screen and (min-width: 1171px) {
   .projects {
